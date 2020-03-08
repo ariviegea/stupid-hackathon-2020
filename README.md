@@ -3,7 +3,7 @@ Take advantatge of your customers! Add this spin wheel on your checkout and offe
 
 In order to use the project do:
 1. Download the repo.
-2. Run 'npm install' to install the node modules.
+2. Run 'npm install' to install node modules.
 3. Run 'npm run start', to run the project.
 3. Open the project in the broswer (preferably chrome) on http://localhost:3000.
 
